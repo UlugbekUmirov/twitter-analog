@@ -15,7 +15,7 @@ export default class App extends React.Component {
         {
           label: "Future programmer",
           important: true,
-          like: false,
+          like: true,
           id: "1",
         },
         { label: "That is so good", important: false, like: false, id: "2" },
